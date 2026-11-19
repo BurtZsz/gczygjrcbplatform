@@ -1,0 +1,149 @@
+{
+  "updated": "2026-11-18",
+  "note": "价格为公开信息口径，下单前需二次核实；国补与立减金额以平台结算为准。",
+  "items": [
+    {
+      "date": "2026-11-18",
+      "name": "好易通 AI 口语陪练随学宝",
+      "cat": "edu",
+      "catLabel": "AI 教育硬件",
+      "price": "¥270",
+      "desc": "豆包大模型驱动的英语口语对练，配视频通话、多重定位与微聊；无需插卡、蓝牙或 WiFi，定位是「没有游戏的电话手表」。深圳好易通旗舰店在售，公开页显示 24 人付款。",
+      "tags": ["电商", "课程"],
+      "verdict": "英语垂直方向对口：口语陪练加定位，去掉游戏化干扰，适合低龄随身使用。模型对话的稳定性与内容适龄性需要实测。",
+      "source": { "label": "淘宝旗舰店", "url": "https://mobile-phone.taobao.com/chanpin/a670fb5e79bb5064c77d1ace6ad9016fcf354e5f7f03e76ff2e0a70a0e489237c289c430cf0da2d9e42fd272ab6b4004.html" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "科大讯飞 AI 词典笔 X9 / X8Pro",
+      "cat": "edu",
+      "catLabel": "AI 教育硬件",
+      "price": "¥1,299（国补立减 10%）",
+      "desc": "讯飞旗舰店在售：6000 万级词量、AI 全科讲题、双重莱茵护眼认证、中高考同源阅卷技术。公开页显示 200+ 人付款。",
+      "tags": ["电商", "课程"],
+      "verdict": "词典笔中高端段。与千元内白牌形成清晰分层，适合做品牌款主推；国补后实际到手价要按结算页核。",
+      "source": { "label": "淘宝旗舰店", "url": "https://mobile-phone.taobao.com/chanpin/a670fb5e79bb5064c77d1ace6ad9016fcf354e5f7f03e76ff2e0a70a0e489237c289c430cf0da2d9e42fd272ab6b4004.html" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Jopark 绒糯糯 AI 毛绒陪伴玩偶",
+      "cat": "edu",
+      "catLabel": "AI 教育硬件",
+      "price": "价格待核（下单页为准）",
+      "desc": "内置大模型、对话不限次数，覆盖科普、睡前故事、益智游戏；有情绪识别与多种表情反馈，家长监护可查看聊天内容并对不适内容做引导。自带挂扣可挂书包。",
+      "tags": ["电商", "课程"],
+      "verdict": "情感陪伴路线，不是学科教具。家长能看聊天记录是真实卖点；模型接入方式与免费对话的实际限制必须核实。",
+      "source": { "label": "抖音", "url": "https://www.iesdouyin.com/share/video/7706775344917670378" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "阿尔法口袋扫题笔 MD11",
+      "cat": "edu",
+      "catLabel": "AI 教育硬件",
+      "price": "¥69-79 起",
+      "desc": "即扫即译，覆盖中英、字词、文言与成语；扫题给讲解、口语评测、课外听读，声称同步新教材。注意「阿尔法」为白牌，与科大讯飞阿尔法蛋不是同一品牌。",
+      "tags": ["电商"],
+      "verdict": "低价扫题笔走量带候选。词典版权来源、离线词库与售后能力需要核验，品牌词不可混用。",
+      "source": { "label": "抖音", "url": "https://www.iesdouyin.com/share/video/7682246107863319529" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Interface Ring",
+      "cat": "wear",
+      "catLabel": "智能穿戴 / 众筹",
+      "price": "已筹 $408,113（目标 $20,000）",
+      "desc": "旧金山 Rolling Square 项目，Kickstarter Project We Love。24/7 健康与睡眠追踪、戒指上的语音 AI Agent、记录想法与会议、7 天续航、IP68。2,575 人支持，截止 2026-12-20。",
+      "tags": ["众筹", "自用"],
+      "verdict": "Agent 记忆路线：把 AI 代理放到手指上。增长稳定，值得作为众筹侧参照物长期跟；交付后的续航与识别准确率待验。",
+      "source": { "label": "Kickstarter", "url": "https://www.kickstarter.com/projects/rollingsquare/interface-ai-smart-ring-for-voice-notes-agents-and-health/posts" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Spark Ring",
+      "cat": "wear",
+      "catLabel": "智能穿戴 / 众筹",
+      "price": "$179 起，Bundle $239",
+      "desc": "智能提醒、AI 笔记与任务、45 分钟离线录音、112 语言转写、IP68、12 个月保修、无订阅。已筹 S$207,721，870+ 支持者，深圳工厂生产，12 月初发货。",
+      "tags": ["众筹", "自用"],
+      "verdict": "语音记录路线已进入交付期。无订阅是卖点；转写准确率与离线录音稳定性继续跟。用户群中注意力困扰人群占比偏高。",
+      "source": { "label": "KS Updates", "url": "https://www.kickstarter.com/projects/sparkring/spark-ring-the-smart-ring-built-to-capture-ideas-instantly/posts" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Nova Ring",
+      "cat": "wear",
+      "catLabel": "智能穿戴 / 众筹",
+      "price": "已筹 €14,724（目标 €10,000）",
+      "desc": "西班牙团队，钛合金戒体，心率、血氧、睡眠、压力与运动 24/7 监测，附 AI 洞察，无订阅。众筹已结束，46 人支持，约 147% 达标。",
+      "tags": ["众筹"],
+      "verdict": "健康监测路线的小额达标样本。是否转零售与交付口碑待跟踪，暂不列为主推。",
+      "source": { "label": "Kickstarter", "url": "https://www.kickstarter.com/projects/maksimromanyukk/nova-ring-the-smart-ring-that-understands-your-body/description" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Neomix AI Glasses",
+      "cat": "wear",
+      "catLabel": "智能穿戴 / 众筹",
+      "price": "双副 Late Pledge $459（MSRP $798）",
+      "desc": "点头即拍，配世界最大 CMOS、8K UHD、通话与录音；35g、30 天待机、24 款镜框、HiFi 音频、可存 30000 张照片。1,449 人支持，已筹 $330,220。",
+      "tags": ["众筹"],
+      "verdict": "拍摄派眼镜，免手触发是核心卖点。与无摄像头隐私派形成路线分化；拍摄合规与场合限制必须提前说明。",
+      "source": { "label": "Kickstarter", "url": "https://www.kickstarter.com/projects/beaverlab/neomix-ai-glasses-nod-to-shoot-2kpowered-by-minimax?total_hits=652724" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "夸克 AI 眼镜 S1",
+      "cat": "wear",
+      "catLabel": "智能穿戴 / 众筹",
+      "price": "¥4,999（国补立减 15%）",
+      "desc": "双目显示、超级夜景、导航、翻译、提词、AI 对话助手与运动相机拍照。天猫数码家电自营在售，公开页显示 37 人付款。",
+      "tags": ["电商"],
+      "verdict": "国内品牌高端段。提词与导航是实用功能而非演示功能；显示效果与售后需要实际体验后再决定是否上架。",
+      "source": { "label": "淘宝", "url": "https://mobile-phone.taobao.com/chanpin/f5eceebaead193cc7d0de5a53bf17c736db04672db6ee6489728d799a392fd93.html" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "远山智行外骨骼机器人",
+      "cat": "exo",
+      "catLabel": "外骨骼 / 助行",
+      "price": "¥9,800/套，补贴后约 ¥7,800；另有 ¥50/天租赁",
+      "desc": "上海讯益航，进博会普陀孵化项目。碳纤维外壳，-40℃ 至 80℃ 稳定工作并防水；续航 25 公里或 4-6 小时，Type-C 充电宝直充免拆电池；自动识别上下坡与登山步态，含跑步、骑行、阻力训练模式；对老年膝盖给出 30%-50% 腿部助力。适配 1.5-1.9 米身高，按压卡扣快拆快洗。",
+      "tags": ["自用", "电商", "众筹"],
+      "verdict": "适老消费级里少见的租赁方案，配合文旅共享柜思路，试错成本被压到很低。医疗器械属性与实际助力幅度需核验。",
+      "source": { "label": "今日头条 / 上观新闻", "url": "http://m.toutiao.com/group/7705382751330992683/" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Hypershell X 系列新一代",
+      "cat": "exo",
+      "catLabel": "外骨骼 / 助行",
+      "price": "以官网为准",
+      "desc": "新增下行缓冲保护（识别下楼与下坡主动减轻膝关节负担）、健身模式反向助力、低速稳定算法适配中老年步态；通过 TÜV 莱茵、SGS 与中国标准化研究院认证，获 2026 户外创新年度奖。",
+      "tags": ["自用", "电商"],
+      "verdict": "消费级徒步外骨骼的迭代方向已经明确：适老低速算法与下行保护成为标配级卖点。具体档位价需要复核后再报。",
+      "source": { "label": "Hypershell 中国站", "url": "https://hypershell.cn/pages/new-hypershell-x-series-exoskeleton" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "Ascentiz H + K 模块化外骨骼平台",
+      "cat": "exo",
+      "catLabel": "外骨骼 / 助行",
+      "price": "H Pro €1,599 起；K Pro €2,399；H+K Combo €3,599-3,999",
+      "desc": "共享一条 Exo-Belt，髋部（H）与膝关节（K）模块按需更换；Adaptive Motion Intelligence 实时识别运动状态调整助力，覆盖平地、楼梯与上下坡负载管理。",
+      "tags": ["自用"],
+      "verdict": "模块化把入手门槛拆开了：先买一个模块，再补另一个。K 与组合款的上市时间尚未公布，国内渠道未见。",
+      "source": { "label": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/ascentiz-brings-h--k-to-ifa-2026-showcasing-the-worlds-first-modular-exoskeleton-platform-302867704.html" }
+    },
+    {
+      "date": "2026-11-18",
+      "name": "中电科 21 所 白虹·探索 / 云擎",
+      "cat": "exo",
+      "catLabel": "外骨骼 / 助行",
+      "price": "下肢约 ¥6,000；上肢约 ¥20,000（不单卖）",
+      "desc": "白虹·探索下肢 2.2kg，主打山地徒步与日常助行，充电宝供电，是现场最低价位段；云擎上肢 4.8kg、最大出力 36 牛米，面向建筑与制造过顶操作，不单独零售。",
+      "tags": ["自用"],
+      "verdict": "国家队下场把消费级徒步款价格压到六千档。下肢款可作价格锚点对照，上肢款属行业 B 端，不进零售清单。",
+      "source": { "label": "21 财经", "url": "https://m.21jingji.com/article/20260820/herald/b8ef100eb49b502fb2b5d35230b968f3.html" }
+    }
+  ]
+}
