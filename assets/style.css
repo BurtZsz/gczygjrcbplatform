@@ -309,6 +309,18 @@ footer{
 footer .wrap{display:flex;gap:18px;flex-wrap:wrap;justify-content:space-between;align-items:center;}
 .foot-brand{display:flex;align-items:center;gap:10px;color:var(--text-2);font-weight:600;}
 
+/* ---------- 长文正文（指导思想展开稿） ---------- */
+.prose{max-width:780px;}
+.prose p{color:var(--text-2);font-size:15.5px;line-height:1.9;margin:0 0 18px;}
+.prose p b,.prose p strong{color:#fff;}
+.prose h3{font-size:17px;color:#fff;margin:36px 0 14px;display:flex;align-items:center;gap:10px;}
+.prose h3::before{content:"";width:6px;height:18px;border-radius:3px;background:var(--gold);}
+.prose ul{list-style:none;padding:0;margin:0 0 18px;}
+.prose li{position:relative;padding:8px 0 8px 22px;color:var(--text-2);font-size:15px;line-height:1.8;}
+.prose li::before{content:"";position:absolute;left:4px;top:17px;width:6px;height:6px;border-radius:50%;background:var(--gold);}
+.prose li b{color:#fff;}
+.prose .note{margin:22px 0;}
+
 /* ---------- 响应式 ---------- */
 @media(max-width:860px){
   .hero h1{font-size:34px;}
